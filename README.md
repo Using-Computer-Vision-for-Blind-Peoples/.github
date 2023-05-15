@@ -1,0 +1,2 @@
+# .github
+Blind Awarnesses need our Help! Let's Join this MAGIC GROUP NOW..Becouse only each Now exists..BUT FOR A BLIND NOW IS A DARK BLACK SPACE...HE NEED LIGHT USING COMPUTER VISION LATEST TECHNOLOGY AND MY GREAT IDEAS  
