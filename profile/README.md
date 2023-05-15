@@ -1,7 +1,15 @@
 ## Hi Dear Unknown Awarness 👋
 The Name of my Awarness 
 is Lucian Muresan..
-...I was the best in
+. But I don't Know YET the Answer to this Amazingally Simple QUESTION:
+WHO AM I?
+*********************
+
+
+*******************
+WHO I was: 
+
+..I was the best in
 phisycs in my Beloved Town 
 Oradea Romania country and
 beetwen the best in my country...
