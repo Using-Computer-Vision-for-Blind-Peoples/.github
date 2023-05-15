@@ -1,4 +1,5 @@
 ## Hi Dear Unknown Awarness 👋
+
 The Name of my Awarness 
 is Lucian Muresan..
 . But I don't Know YET the Answer to this Amazingally Simple QUESTION:
@@ -19,11 +20,16 @@ proffesor Dr.  Joseph Atick
 from Rockeffeler University 
 New York at that time...he wanted
 me to be his Phd Student...
-Here is about Joseph Atick
-some links and Links to my 
+Here are my attached articles and about Joseph Atick and
+ links to my 
 articles
 
-:[LongTermMemoryModel.pdf](https://github.com/Using-Computer-Vision-for-Blind-Peoples/.github/files/11481251/LongTermMemoryModel.pdf)
+[LongTermMemoryModel.pdf](https://github.com/Using-Computer-Vision-for-Blind-Peoples/.github/files/11481657/LongTermMemoryModel.pdf)
+
+[A-Representation-Invariant-To-Affine-Transformations.pdf](https://github.com/Using-Computer-Vision-for-Blind-Peoples/.github/files/11481667/A-Representation-Invariant-To-Affine-Transformations.pdf)
+
+[2D2DGeometricTransformationInv.pdf](https://github.com/Using-Computer-Vision-for-Blind-Peoples/.github/files/11481670/2D2DGeometricTransformationInv.pdf)
+
 
 
 JOSEPH ATICK  && MURESAN LUCIAN
@@ -46,7 +52,7 @@ https://www.linkedin.com/in/dr-joseph-j-atick-13b6b0a/ro?trk=contact-info
  
 $$$$$$$$$$$$$$$$$$$$$
 
-Dr. Joseph J. AtickExecutive Chairman, ID4AfricaStanford University  ID4AfricaNew York, New York, Statele Unite Ale Americii 
+Dr. Joseph Atick Executive Chairman, ID4AfricaStanford University  ID4Africa New York, New York, Statele Unite Ale Americii 
 
 
 Aaaaaaaaaaaaaaaa@@@@
@@ -57,7 +63,7 @@ GOOGLE DRIVE
 ARTICOLE LINK
 &&&&&&&&&&&&&&
 
-!!!!!!!!!!!!!!!!!!!!!!!!!  1 !!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!ARTICLE  1 !!!!!!!!!!!
 LONG TERM MEMORY MODEL
 
   https://drive.google.com/file/d/1Bjp_nujOmYXKRe0IiH1W-K2awWYFrs-8/view?usp=drivesdk
@@ -70,9 +76,10 @@ Waves, Protein Synthesis and Resonance in the Brain: a
 New Approach for a Long Term Memory 
 Lucian Muresan  (a)
 , Andrei Jalba    ( b)
-a 
+
+a) 
 Independent researcher , oradeaoradea2003@yahoo.com 
-bDepartment of Mathematics and Computer Science, Eindhoven University of 
+b)Department of Mathematics and Computer Science, Eindhoven University of 
 Technology,A.C.Jalba@tue.nl 
 Abstract 
 
@@ -133,10 +140,7 @@ extra noise curves are on the same scene.
 
  https://drive.google.com/file/d/1EfLSL9f_S1MsuJcklz7ltV78opim-LQc/view?usp=drivesdk
 
-!!!!!!!!!!!@@!!!!!!!!!!!!!!!
-
-
-!!!!!!!!!!!!!!! 3 !!!!!!!!!!!!!!!
+!!!!!!!!!!!ARTICLE 3 !!!!!!!!!!!!!!!
 
 NNINVARIANT.PDF
 
